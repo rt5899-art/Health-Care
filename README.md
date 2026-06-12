@@ -46,7 +46,7 @@ Insight: The line chart shows a severe drop in the sum of billing amounts moving
 
 Insight: Urgent, Elective, and Emergency admissions show near-identical distributions (around 9K to 9.5K patients each) across genders.
 
-* Action: Maintain flexible, non-siloed staffing models across emergency and elective wings since patient volume does not heavily lean toward one specific admission type.
+* Action: Maintain flexible, non-soiled staffing models across emergency and elective wings since patient volume does not heavily lean toward one specific admission type.
 
 #### Standardize Condition-Based Pricing
 
