@@ -6,7 +6,7 @@ This project provides a comprehensive, data-driven analysis of healthcare operat
 
 ### Tools & Technologies
 
-Microsoft Excel: Initial data structuring, verification, and pivot table modeling.
+Microsoft Excel: Initial data structuring
 
 Power BI: Data modeling, DAX calculations, and interactive dashboard design.
 
