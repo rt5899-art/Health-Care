@@ -14,7 +14,7 @@ Power BI: Data modeling, DAX calculations, and interactive dashboard design.
 
 ![image alt](https://github.com/rt5899-art/Health-Care/blob/main/hc_analytics.png?raw=true)
 
-### Key Business Insights
+### Business Insights
 
 #### Executive Metrics
 
@@ -38,18 +38,18 @@ Power BI: Data modeling, DAX calculations, and interactive dashboard design.
 
 #### Investigate the 2024 Revenue Drop
 
-Insight: The line chart shows a severe drop in the sum of billing amounts moving into 2024.
+**Insight:** The line chart shows a severe drop in the sum of billing amounts moving into 2024.
 
 * Action: Conduct an immediate audit of 2024 data pipelines to check for missing logs, or consult operations to identify potential external market shifts or systemic insurance policy adjustments.
 
 #### Optimize Admission Type Resource Allocation
 
-Insight: Urgent, Elective, and Emergency admissions show near-identical distributions (around 9K to 9.5K patients each) across genders.
+**Insight:** Urgent, Elective, and Emergency admissions show near-identical distributions (around 9K to 9.5K patients each) across genders.
 
 * Action: Maintain flexible, non-soiled staffing models across emergency and elective wings since patient volume does not heavily lean toward one specific admission type.
 
 #### Standardize Condition-Based Pricing
 
-Insight: The "Avg Billing Per Condition" sits exceptionally high at $236.24M, while individual condition patient counts remain uniform.
+**Insight:** The "Avg Billing Per Condition" sits exceptionally high at $236.24M, while individual condition patient counts remain uniform.
 
 * Action: Review the underlying cost drivers behind specific high-cost procedures within those conditions to ensure standardized pricing agreements with major providers like Blue Cross and Aetna.
