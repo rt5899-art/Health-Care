@@ -12,7 +12,7 @@ Power BI: Data modeling, DAX calculations, and interactive dashboard design.
 
 #### Dashboard Preview
 
-![image alt](https://github.com/rt5899-art/Health-Care/blob/main/heallhcare%20analytics.png?raw=true)
+![image alt](https://github.com/rt5899-art/Health-Care/blob/main/Revised%20health%20care.png?raw=true)
 
 ### Key Business Insights
 
