@@ -18,21 +18,21 @@ Power BI: Data modeling, DAX calculations, and interactive dashboard design.
 
 #### Executive Metrics
 
-* **Total Patients Tracked:** 56K across various demographics and conditions.
+ * **Total Patients Tracked:** 56K across various demographics and conditions.
 
-* **Financial Scope:** Total accumulated billing of $1.42bn with an overall average billing of $25.54K per patient.
+ * **Financial Scope:** Total accumulated billing of $1.42bn with an overall average billing of $25.54K per patient.
 
-* **Demographic Baseline:** Average patient age stands at 51.54 years, with a balanced gender distribution of 53.06% Male (104 samples) and 46.94% Female (92 samples).
+ * **Demographic Baseline:** Average patient age stands at 51.54 years, with a balanced gender distribution of 53.06% Male (104 samples) and 46.94% Female (92 samples).
 
 #### Operational & Financial Trends
 
-* **Consistent Volume with Recent Drop:** Billing trends remained relatively stable from 2020 through late 2023 at around $20M per interval, followed by a sharp decline in early 2024.
+ * **Consistent Volume with Recent Drop:** Billing trends remained relatively stable from 2020 through late 2023 at around $20M per interval, followed by a sharp decline in early 2024.
 
-* **Uniform Condition Distribution:** Patient volume is evenly distributed across major medical conditions, each hovering around 9.2K to 9.3K patients (including Arthritis, Diabetes,        Hypertension, Obesity, Cancer, and Asthma).
+ * **Uniform Condition Distribution:** Patient volume is evenly distributed across major medical conditions, each hovering around 9.2K to 9.3K patients (including Arthritis, Diabetes,        Hypertension, Obesity, Cancer, and Asthma).
 
-* **Insurance Performance:** Revenue is evenly spread among major providers, led by Cigna ($0.29bn), Medicare ($0.29bn), Blue Cross ($0.28bn), UnitedHealthcare ($0.28bn), and Aetna ($0.28bn).
+ * **Insurance Performance:** Revenue is evenly spread among major providers, led by Cigna ($0.29bn), Medicare ($0.29bn), Blue Cross ($0.28bn), UnitedHealthcare ($0.28bn), and Aetna ($0.28bn).
 
-* **Top Care Providers:** Michael Smith ($0.78M), Robert Smith ($0.63M), and John Smith ($0.61M) lead the top 10 doctors by total billing revenue.
+ * **Top Care Providers:** Michael Smith ($0.78M), Robert Smith ($0.63M), and John Smith ($0.61M) lead the top 10 doctors by total billing revenue.
 
 ### Recommendations
 
